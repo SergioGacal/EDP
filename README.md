@@ -30,3 +30,11 @@ https://sepolia.scrollscan.com/address/0x592F721AD0F1791532adcec7703C23BD080971D
 On November 30, I received feedback from the instructor: The code is correct; it can be improved by using libraries like Ownable
 
 Original text: "El código está correcto, se puede mejorar con el uso de librerías como Ownable"
+
+
+## Module 4. Create a font-end for the SimpleDEX from module 3.
+- Create a front-end to interact with the SimpleDEX contract, allowing users to execute functions such as adding liquidity, withdrawing liquidity, swapping token A for B, swapping token B for A, and retrieving the price of a token.  
+- If the instructor provided recommendations regarding the SimpleDEX contract during the module 3 review, those recommendations must be implemented at this stage.  
+- Any tool can be used to create the front-end: HTML, JavaScript, React, Scaffold-ETH, etc.  
+- The programs and contracts used must be stored in a GitHub repository for evaluation.
+
