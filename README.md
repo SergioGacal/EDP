@@ -25,3 +25,8 @@ https://sepolia.scrollscan.com/address/0xF6309D84c5f47B1811386e9d7295cE77e362385
 SimpleDEX
 https://sepolia.scrollscan.com/address/0x592F721AD0F1791532adcec7703C23BD080971Dc
 
+
+### Feedback, teacher's note
+On November 30, I received feedback from the instructor: The code is correct; it can be improved by using libraries like Ownable
+
+Original text: "El código está correcto, se puede mejorar con el uso de librerías como Ownable"
