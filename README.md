@@ -39,6 +39,3 @@ https://sepolia.scrollscan.com/address/0x94cad8b3c6e2808ad1e1544fbfef3d4ab9374c3
 - If the instructor provided recommendations regarding the SimpleDEX contract during the module 3 review, those recommendations must be implemented at this stage.  
 - Any tool can be used to create the front-end: HTML, JavaScript, React, Scaffold-ETH, etc.  
 - The programs and contracts used must be stored in a GitHub repository for evaluation.
-
-
-
